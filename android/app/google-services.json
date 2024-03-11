@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840590649290",
+    "project_id": "zaapo-e368e",
+    "storage_bucket": "zaapo-e368e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840590649290:android:33d63450c7043cf7d41133",
+        "android_client_info": {
+          "package_name": "com.example.login_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56nSzvXaQBnDFA45TzbiD5n391hmp6uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840590649290:android:266f10c636301df8d41133",
+        "android_client_info": {
+          "package_name": "com.example.one_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56nSzvXaQBnDFA45TzbiD5n391hmp6uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
